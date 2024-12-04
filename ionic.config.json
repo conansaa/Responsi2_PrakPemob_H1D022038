@@ -1,0 +1,7 @@
+{
+  "name": "responsi-vue",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue-vite"
+}
